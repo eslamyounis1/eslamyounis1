@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/65/c7/d4/65c7d4a8f34de11f9414ce49b847e56a.gif" align="center" alt="Snow" width="1000" heigh="50">
 
-<h4 align="center">I'm a third year Computer Science student, I'm a passionate learner, I love challenges and do my best to reach the best result; currently i work as a flutter developer; just starting a new project give me a great shot of adriline and makes me work non stop  </h4>
+<h4 align="center">I'm a third year Computer Science student, I'm a passionate learner, I love challenges and do my best to reach the best result; currently i work as a flutter developer; just starting a new project gives me a great shot of adriline and makes me work non stop  </h4>
 <h5 align="center">“In software, the most beautiful code, the most beautiful functions, and the most beautiful programs are sometimes not there at all.” - Jon Bentley</h5>
 <img src="https://user-images.githubusercontent.com/71278733/172068867-ba3de80b-dc63-44c0-a31b-0ba74c244163.gif" width="1100" height="3">
 
