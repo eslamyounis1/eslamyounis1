@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/65/c7/d4/65c7d4a8f34de11f9414ce49b847e56a.gif" align="center" alt="Snow" width="1000" heigh="50">
+<img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" align="center" alt="Snow" width="1000" heigh="50">
 
 <h4 align="center">I'm a third year Computer Science student, I'm a passionate learner, I love challenges and do my best to reach the best result; currently i work as a flutter developer; just starting a new project gives me a great shot of adriline and makes me work non stop  </h4>
 <h5 align="center">“In software, the most beautiful code, the most beautiful functions, and the most beautiful programs are sometimes not there at all.” - Jon Bentley</h5>
